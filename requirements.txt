@@ -1,0 +1,7 @@
+Flask
+dash
+dash-bootstrap-components
+pandas
+plotly
+TextBlob
+scikit-learn
