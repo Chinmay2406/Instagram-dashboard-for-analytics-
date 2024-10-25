@@ -69,7 +69,7 @@ This will run the entire dashboard with all necessary components, including the 
 
 - **Running the Instagram bot**:
   ```bash
-  python instagram_bot.py
+  python instagram_bot.py              this is optional in in development
   ```
 
 - **Running the server**:
