@@ -79,7 +79,7 @@ This will run the entire dashboard with all necessary components, including the 
 
 - **Running the Instagram scraper**:
   ```bash
-  python webscrappinginstagram.py
+  python webscrappinginstagram.py              this is optional in in development
   ```
 
 ## Features
