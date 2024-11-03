@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project provides a comprehensive **Instagram Analytics Dashboard** built using Python. It offers real-time insights on followers, likes, comments, and other analytics for Instagram profiles. The dashboard also includes advanced features like sentiment analysis and automated scraping for Instagram data.
+This project provides a comprehensive **Instagram Analytics Dashboard** built using Python. It offers real-time insights on followers, likes, comments, and other analytics for Instagram profiles. The dashboard also includes advanced features like sentiment analysis and automated scraping for Instagram data(please dm me or email me for additional details)
 
 ## Project Structure
 
